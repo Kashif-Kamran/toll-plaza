@@ -1,0 +1,5 @@
+{
+    "wrongEntryExitpoint":"\"entryPoint\" must be one of [Zero point, NS Interchange, Ph4 Interchange, Ferozpur Interchange, Lake City Interchange, Raiwand Interchange, Bahria Interchange]",
+    "wrongKey":"\"numberPlate\" is required",
+    "wrongTypenumberPlate": "\"numberPlate\" must be a string"
+}
